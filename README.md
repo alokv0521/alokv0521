@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<!--
 <img  align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+-->
 
+<video autoplay loop muted playsinline width="350" align="right">
+  <source src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <p align="left"> <img controls autoplay src="https://komarev.com/ghpvc/?username=alokv0521&label=Profile%20views&color=0e75b6&style=flat" alt="alokv0521" /> </p>
 
 - 🌱 I’m currently learning **MERN , next framework**
