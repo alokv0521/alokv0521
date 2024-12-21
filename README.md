@@ -3,7 +3,7 @@
 
 <img  align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img controls autoplay src="https://komarev.com/ghpvc/?username=alokv0521&label=Profile%20views&color=0e75b6&style=flat" alt="alokv0521" /> </p>
+
 
 - 🌱 I’m currently learning **MERN , next framework**
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokv0521&show_icons=true&locale=en" alt="alokv0521" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokv0521&" alt="alokv0521" /></p>
+
+<p align="right"> <img controls autoplay src="https://komarev.com/ghpvc/?username=alokv0521&label=Profile%20views&color=0e75b6&style=flat" alt="alokv0521" /> </p>
