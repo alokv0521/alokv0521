@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India learning AI/ML< /h3>
 
 <img  align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-- 🌱 I’m currently learning **MERN , next framework**
+- 🌱 I’m currently learning **Machine **Learning 
 
-- 💬 Ask me about **react ,**
+- 💬 Ask me about **react ,**ML
 
 - 📫 How to reach me **alokv0521@gmail.com**
 
