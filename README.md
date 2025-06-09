@@ -25,7 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokv0521&show_icons=true&theme=dark&locale=en&layout=compact" alt="alokv0521" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokv0521&show_icons=true&theme=dark&locale=en" alt="alokv0521" /></p>
-<p align="center" > <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokv0521&" alt="alokv0521" /></p>
+<p align="center" > <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokv0521&show_icons=true&theme=dark&locale=en" alt="alokv0521" /></p>
+<!-- ![alokv0521's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokv0521&theme=dark&hide_border=false) -->
 
 
 <p align="right"> <img controls autoplay src="https://komarev.com/ghpvc/?username=alokv0521&label=Profile%20views&color=0e75b6&style=flat" alt="alokv0521" /> </p>
