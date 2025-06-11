@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine **Learning 
 
-- 💬 Ask me about **react ,**ML
+- 💬 Ask me about React ,ML
 
 - 📫 How to reach me **alokv0521@gmail.com**
 
