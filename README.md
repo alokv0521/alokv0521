@@ -10,6 +10,7 @@
 - 💬 Ask me about React ,ML
 
 - 📫 How to reach me alokv0521@gmail.com
+- to know more : https://alokiiitbh.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
